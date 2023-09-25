@@ -5,7 +5,7 @@
 ### Class 1：VS Code & 程式語言基礎(一)
 
 #### 時間：2023/09/26 (Tue) 19:30 - 20:30
-#### 課程簡報：[🔗HackMD](https://hackmd.io/@Charles5277/S1b9YVmya)
+#### 課程簡報：[🔗HackMD](https://hackmd.io/@GDSC-NYUST/rJKqKU1gp/%2FeMjdiYplQ7Kn2npbcT9Daw)
 
 > [![課程錄影檔](https://img.youtube.com/vi/tCcrGuVVW3o/0.jpg)](https://youtu.be/tCcrGuVVW3o)
 
