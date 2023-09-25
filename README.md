@@ -1,4 +1,4 @@
-## 📢所有教材目錄：[🔗HackMD](https://hackmd.io/j_WwdC7LRzeoPPvlCaCrLg)
+## 📢所有教材目錄：[🔗HackMD](https://hackmd.io/@GDSC-NYUST/rJKqKU1gp)
 
 ## Topic：基礎工具與程式語言入門
 
