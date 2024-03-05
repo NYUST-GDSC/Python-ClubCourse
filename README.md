@@ -17,4 +17,13 @@
 [![課程錄影檔](https://img.youtube.com/vi/fgrPAddrxaE/0.jpg)](https://youtu.be/fgrPAddrxaE)
 
 ### Class 3：JSON 與 API
+
+#### 時間：2023/10/29 (Tue) 19:00 - 21:00
+#### 課程簡報：[🔗HackMD](https://hackmd.io/JzrJyqfBQhuR9t1Q7OX73w)
+
+[![課程錄影檔](https://img.youtube.com/vi/_yq-YMfXHac/0.jpg)](https://youtu.be/_yq-YMfXHac)
+
 ### Class 4：Git 與 GitHub
+
+#### 時間：2023/10/31 (Tue) 19:00 - 21:00
+#### 課程簡報：[🔗HackMD](https://hackmd.io/kx_4VbTJQbii_9mMK_1qNw)
